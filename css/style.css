@@ -4,7 +4,7 @@ img{
 .hidden{
     display: none;
 }
-.show{
+.active{
     display: block;
 }
 .slider-container{
